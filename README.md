@@ -6,7 +6,7 @@
 
 项目有基础版和进阶版
 
-基础版：[(https://github.com/tjt987666/RPC.git)]
+基础版：https://github.com/tjt987666/RPC.git
 
 进阶版: xxx
 
