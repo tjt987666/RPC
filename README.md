@@ -6,7 +6,7 @@
 
 项目有基础版和进阶版
 
-基础版：xxx
+基础版：[xxx](https://github.com/tjt987666/RPC.git)
 
 进阶版: xxx
 
@@ -58,7 +58,7 @@ orderId = orderService.order(参数1, 参数2, 参数3);
 
 ### 架构图
 
-![image-20241207191333614](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241207191333614.png)
+
 
 ### 具体实现
 
@@ -66,7 +66,7 @@ orderId = orderService.order(参数1, 参数2, 参数3);
 
 1. **创建模块**
 
-   ![image-20241207191455377](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241207191455377.png)
+
 
    - `example-common`: 示例代码的公共模块，包括接口和Model
    - `example-consumer`: 服务的消费者
