@@ -8,7 +8,7 @@
 
 基础版：https://github.com/tjt987666/RPC.git
 
-进阶版: xxx
+进阶版: https://github.com/tjt987666/RPC_Max.git
 
 
 
